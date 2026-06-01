@@ -15,9 +15,6 @@ Curious Learner.
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mjameel9&limit=5&theme=aura&combine_all_yearly_contributions=true)
 
-
-[![wakatime](https://wakatime.com/badge/user/f06cbe45-62c4-46dd-a8ce-330c085990f7/project/6b106204-150e-43fd-8acd-8dffee170128.svg)](https://wakatime.com/badge/user/f06cbe45-62c4-46dd-a8ce-330c085990f7/project/6b106204-150e-43fd-8acd-8dffee170128)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
